@@ -15,7 +15,12 @@ Gang investigators at Calipatria State Prison noticed the enciphered message and
 
 A CRRU Forensic Examiner provided expert witness testimony at Jeffries’s trial. Jeffries was found guilty on all charges and sentenced to life in prison.
 
----
+_Non-truncated image:_
 
+![cipher1](https://raw.githubusercontent.com/doranchak/dustin-jeffries-cipher/main/cipher-1.jpg)
+
+_Truncated but larger image:_
+
+![image](https://github.com/doranchak/dustin-jeffries-cipher/assets/1651373/016cefc3-af5b-46dc-904c-faf44d18bd62)
 
 The cipher is polyalphabetic, wtih keyword: SHOE. Written in 2009. USAS = United Society of Aryan Skinheads (a group that stood up the the Aryan Brotherhood). PENI = Public Enemy Number 1 (a skinhead group).
